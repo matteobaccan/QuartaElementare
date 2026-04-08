@@ -8,6 +8,7 @@ Attualmente il progetto include le seguenti unità:
 
 - **Weather and Climate**: Studio del tempo meteorologico e del clima, con test di verifica in formato PDF e ODT.
 - **Who were the Babylonians**: Approfondimento sulla civiltà dei Babilonesi, con immagini delle schede e test finale.
+- **Plants**: Studio del mondo vegetale, con infografiche, domande di ripasso e test.
 
 ## Struttura del progetto
 
@@ -27,6 +28,13 @@ Contenuti principali del test sull'unità dei Babilonesi:
 - Il Codice di Hammurabi e la scrittura cuneiforme.
 - Astronomia, calendario lunare e architettura (Porta di Ishtar, Giardini Pensili).
 - Civiltà correlate: Assiri (esercito, biblioteca di Assurbanipal) e Ittiti (uso del ferro, trattati di pace).
+
+## Test "Plants"
+Contenuti principali del test sull'unità delle piante:
+- Ciclo vitale delle piante (germinazione, crescita, riproduzione, morte).
+- Fotosintesi: clorofilla, luce solare e scambio di gas.
+- Struttura della pianta: radici, fusto, foglie, fiori e semi.
+- Classificazione delle piante e adattamenti all'ambiente.
 
 ## Come usare questo materiale
 
