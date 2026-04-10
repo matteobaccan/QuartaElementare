@@ -9,6 +9,7 @@ Attualmente il progetto include le seguenti unità:
 - **Weather and Climate**: Studio del tempo meteorologico e del clima, con test di verifica in formato PDF e ODT.
 - **Who were the Babylonians**: Approfondimento sulla civiltà dei Babilonesi, con immagini delle schede e test finale.
 - **Plants**: Studio del mondo vegetale, con infografiche, domande di ripasso e test.
+- **Venus Flytrap**: Scheda dedicata alla pianta carnivora Dionaea muscipula, con immagine illustrativa.
 
 ## Struttura del progetto
 
@@ -35,6 +36,12 @@ Contenuti principali del test sull'unità delle piante:
 - Fotosintesi: clorofilla, luce solare e scambio di gas.
 - Struttura della pianta: radici, fusto, foglie, fiori e semi.
 - Classificazione delle piante e adattamenti all'ambiente.
+
+## Unità "Venus Flytrap"
+Contenuti principali della scheda sull'unità Venus Flytrap:
+- Caratteristiche della **Dionaea muscipula** (pianta carnivora).
+- Funzionamento della trappola fogliare e cattura degli insetti.
+- Adattamenti all'ambiente e strategia di nutrimento.
 
 ## Come usare questo materiale
 
