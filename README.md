@@ -1,48 +1,67 @@
 # Quarta Elementare - Schede di Studio
 
-Questo progetto è una raccolta di materiale didattico in inglese per la classe quarta elementare. Include schede di studio e relativi test di verifica su vari argomenti.
+Questo repository raccoglie materiali didattici pensati per il ripasso e l'approfondimento di argomenti affrontati in quarta elementare. I contenuti sono organizzati per unità tematiche e includono schede illustrate, immagini di supporto, infografiche, domande guida e, quando disponibili, test pronti per l'uso in diversi formati.
 
-## Contenuti
+L'obiettivo del progetto è mantenere in un unico spazio ordinato tutto il materiale utile per studiare, ripassare in autonomia oppure preparare attività e verifiche da proporre in classe.
 
-Attualmente il progetto include le seguenti unità:
+## Organizzazione del repository
 
-- **Weather and Climate**: Studio del tempo meteorologico e del clima, con test di verifica in formato PDF e ODT.
-- **Who were the Babylonians**: Approfondimento sulla civiltà dei Babilonesi, con immagini delle schede e test finale.
-- **Plants**: Studio del mondo vegetale, con infografiche, domande di ripasso e test.
-- **Venus Flytrap**: Scheda dedicata alla pianta carnivora Dionaea muscipula, con immagine illustrativa.
+Ogni cartella principale corrisponde a un argomento specifico. La struttura non è identica in tutte le unità, perché i materiali disponibili variano in base al tema trattato e allo stato di preparazione della raccolta.
 
-## Struttura del progetto
+Nel repository sono attualmente presenti soprattutto:
 
-Ogni cartella contiene:
-- Immagini delle schede di studio (formato JPEG).
-- Test di verifica (formato PDF, ODT e Markdown).
+- immagini delle schede di studio in formato `.jpeg`, `.jpg` e `.png`
+- documenti con domande o tracce di ripasso in formato `.odt`
+- test di verifica in formato `.md`, `.pdf` e `.odt`
+- materiali sintetici o visuali, come infografiche e tavole illustrate
 
-## Test "Weather and Climate"
-Contenuti principali del test sull'unità Weather and Climate:
-- Differenza tra tempo meteorologico e clima.
-- Fattori climatici (latitudine, altitudine, vicinanza al mare).
-- Le regioni climatiche italiane (Alpina, Padana, Appenninica, Adriatica, Ligure-Tirrenica, Mediterranea).
+## Unità disponibili
 
-## Test "Who were the Babylonians"
-Contenuti principali del test sull'unità dei Babilonesi:
-- Geografia della Mesopotamia (Tigri ed Eufrate).
-- Il Codice di Hammurabi e la scrittura cuneiforme.
-- Astronomia, calendario lunare e architettura (Porta di Ishtar, Giardini Pensili).
-- Civiltà correlate: Assiri (esercito, biblioteca di Assurbanipal) e Ittiti (uso del ferro, trattati di pace).
+### Alpi
 
-## Test "Plants"
-Contenuti principali del test sull'unità delle piante:
-- Ciclo vitale delle piante (germinazione, crescita, riproduzione, morte).
-- Fotosintesi: clorofilla, luce solare e scambio di gas.
-- Struttura della pianta: radici, fusto, foglie, fiori e semi.
-- Classificazione delle piante e adattamenti all'ambiente.
+La cartella `Alpi` contiene materiale illustrato dedicato all'ambiente alpino, accompagnato da un file `domande.odt` utile per il ripasso o per una verifica orale o scritta. Il contenuto sembra pensato per aiutare a fissare gli elementi principali del paesaggio montano.
 
-## Unità "Venus Flytrap"
-Contenuti principali della scheda sull'unità Venus Flytrap:
-- Caratteristiche della **Dionaea muscipula** (pianta carnivora).
-- Funzionamento della trappola fogliare e cattura degli insetti.
-- Adattamenti all'ambiente e strategia di nutrimento.
+### Appennini
 
-## Come usare questo materiale
+La cartella `Appennini` raccoglie immagini e un file `domande.odt` dedicati alla catena appenninica. È materiale adatto a consolidare i concetti fondamentali relativi al territorio italiano e alle sue caratteristiche geografiche.
 
-Le schede possono essere utilizzate per il ripasso individuale o come supporto alla didattica in classe. I test inclusi permettono di verificare la comprensione degli argomenti trattati.
+### Egypt
+
+La cartella `Egypt` contiene una raccolta di immagini e schede visive relative all'antico Egitto. Al momento si presenta soprattutto come archivio di supporti iconografici, utile per introdurre o accompagnare lo studio della civiltà egizia.
+
+### Plants
+
+La cartella `Plants` è una delle unità più complete del repository. Include immagini, un'infografica, materiali di ripasso e test in formato `.odt` e `.pdf`. È pensata per affrontare il tema delle piante in modo sia visivo sia operativo, con materiali adatti allo studio e alla verifica.
+
+### Venus Flytrap
+
+La cartella `Venus Flytrap` contiene un'immagine dedicata alla pianta carnivora. Si tratta di una piccola unità tematica, utile come approfondimento o curiosità all'interno del percorso sulle piante.
+
+### Vulcani
+
+La cartella `Vulcani` raccoglie immagini illustrative e un file `domande.odt`. Il materiale sembra orientato al ripasso dei concetti principali legati ai vulcani e, più in generale, ai fenomeni geologici studiati nella scuola primaria.
+
+### Weather and Climate
+
+La cartella `Weather and Climate` contiene una raccolta strutturata di schede e test sul meteo e sul clima. Sono presenti immagini delle schede, un file `test.md` e corrispondenti versioni in `.pdf` e `.odt`. È un'unità già pronta per essere usata sia nello studio individuale sia come base per una verifica.
+
+### Who Were the Babylonians
+
+La cartella `Who Were the Babylonians` raccoglie materiali dedicati alla civiltà babilonese. Oltre alle schede illustrate e ai file di test nei formati principali, contiene anche versioni aggiuntive della verifica, come `test-00-15` e `test-16-30`, che fanno pensare a una suddivisione o a una variante del materiale valutativo.
+
+## Come usare questi materiali
+
+Il repository può essere usato in modi diversi, a seconda delle esigenze:
+
+- come archivio ordinato di schede per il ripasso
+- come base per preparare lezioni o attività di consolidamento
+- come raccolta di verifiche già impaginate in più formati
+- come supporto visivo per spiegazioni in classe o studio a casa
+
+Le cartelle più ricche, come `Plants`, `Weather and Climate` e `Who Were the Babylonians`, offrono già una combinazione di teoria e verifica. Le unità più leggere possono invece essere ampliate in futuro con nuovi test, testi o materiali di riepilogo.
+
+## Stato attuale del progetto
+
+I nomi delle cartelle sono stati uniformati per rendere il repository più leggibile. Restano comunque differenze nella quantità e nel tipo di contenuti presenti in ciascuna unità, perché il progetto funziona come raccolta progressiva di materiale didattico.
+
+In sintesi, questa repository rappresenta un archivio pratico e in evoluzione, pensato per conservare e organizzare materiali scolastici di quarta elementare in modo semplice e riutilizzabile.
