@@ -29,6 +29,14 @@ La cartella `Appennini` raccoglie immagini e un file `domande.odt` dedicati alla
 
 La cartella `Egypt` contiene una raccolta di immagini e schede visive relative all'antico Egitto. Al momento si presenta soprattutto come archivio di supporti iconografici, utile per introdurre o accompagnare lo studio della civiltà egizia.
 
+### Leaves
+
+La cartella `Leaves` contiene materiali di approfondimento sulle foglie, sui fiori e sul processo di fotosintesi. Include immagini specifiche dedicate ai vari argomenti ("Flower", "Flowering", "Photosynthesis", "Types of leaves") e file di supporto nei formati `.odt` e `.pdf`.
+
+### Nut
+
+La cartella `Nut` è una piccola unità tematica che offre una scheda in formato `.png` e i relativi documenti nei formati `.odt` e `.pdf`, utili per integrare il percorso di studio o verifica sulle piante.
+
 ### Plants
 
 La cartella `Plants` è una delle unità più complete del repository. Include immagini, un'infografica, materiali di ripasso e test in formato `.odt` e `.pdf`. È pensata per affrontare il tema delle piante in modo sia visivo sia operativo, con materiali adatti allo studio e alla verifica.
