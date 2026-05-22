@@ -21,6 +21,10 @@ Nel repository sono attualmente presenti soprattutto:
 
 La cartella `Alpi` contiene materiale illustrato dedicato all'ambiente alpino, accompagnato da un file `domande.odt` utile per il ripasso o per una verifica orale o scritta. Il contenuto sembra pensato per aiutare a fissare gli elementi principali del paesaggio montano.
 
+### Animals
+
+La cartella `Animals` contiene immagini e illustrazioni in lingua inglese relative agli animali e alla struttura del loro corpo ("Animals" e "The structure of the body"). Il materiale è utile come supporto visivo per lo studio integrato di scienze e inglese.
+
 ### Appennini
 
 La cartella `Appennini` raccoglie immagini e un file `domande.odt` dedicati alla catena appenninica. È materiale adatto a consolidare i concetti fondamentali relativi al territorio italiano e alle sue caratteristiche geografiche.
@@ -36,6 +40,10 @@ La cartella `Leaves` contiene materiali di approfondimento sulle foglie, sui fio
 ### Nut
 
 La cartella `Nut` è una piccola unità tematica che offre una scheda in formato `.png` e i relativi documenti nei formati `.odt` e `.pdf`, utili per integrare il percorso di studio o verifica sulle piante.
+
+### Nutrition
+
+La cartella `Nutrition` raccoglie immagini in formato `.png` e `.jpeg` relative alla nutrizione e alla respirazione ("nutrition" e "respiration"), offrendo materiale illustrativo utile per approfondire i processi vitali in lingua inglese.
 
 ### Plants
 
